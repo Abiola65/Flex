@@ -82,12 +82,12 @@ ul {
   line-height: 1.2;
 }
 
-.header img {
-  max-width: 400px;
+.header .header-image {
+  max-width: 900px; 
 }
 
 .header .container {
-  display: flex;
+  min-height: auto;
   align-items: center;
   justify-content: space-between;
 }
